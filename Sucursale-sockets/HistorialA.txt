@@ -1,0 +1,5 @@
+El paquete 1 ha llegado con los siguientes datos 
+Peso: 8 
+ Dimension: 3 cm^2
+ Costo: $ 257  
+La ganancia al momento es de: 257
